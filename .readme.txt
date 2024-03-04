@@ -1,0 +1,9 @@
+#x Means there are x tracks that x seperate instruments need to play.
+
+Example: GloriousMorning #2 Requires 2 Synthesizers and or HeadPhones to be played with Circuits.
+
+Synthesizers can be gotten from Dorms Wardrobes (RNG and Map Dependent, Northstar sucks, Tram Amazing).
+
+Headphones can be gotten from Library Toy/Game Vendor.
+
+Both can be gotten from Instrument Beacon via Musician Quirk.
